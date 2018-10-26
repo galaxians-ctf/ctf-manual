@@ -1,5 +1,9 @@
 ## Cryptography
 
+```
+sudo apt install bsdgames
+```
+
 **Tools**
 
 *Classical*
@@ -20,6 +24,7 @@
 |What|Link|
 |----|----|
 |Prime factorization (using database)| [factordb.com](http://factordb.com)|
+|factordb CLI + python library | [pypi](https://pypi.org/project/factordb-pycli/) [github](https://github.com/ryosan-470/factordb-pycli)|
 |RSA calculator| [https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSA_Express_EncryptDecrypt.html](https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSA_Express_EncryptDecrypt.html) |
 |RSA worksheet| [https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSAWorksheetv4d.html](https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSAWorksheetv4d.html)|
 |RSA python lib | [https://pypi.python.org/pypi/rsa](https://pypi.python.org/pypi/rsa)|
@@ -53,6 +58,11 @@ GOST hashing algorithm:  [http://en.wikipedia.org/wiki/GOST_%28hash_function%29]
 
 **Tips and Tricks**
 
-
+```console
+$ echo 'hello, world' | rot13
+uryyb, jbeyq
+$ echo 'hello, world' | caesar 1
+ifmmp, xpsme
+```
 
 

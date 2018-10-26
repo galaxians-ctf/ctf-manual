@@ -1,5 +1,9 @@
 # Audio
 
+```
+sudo apt install sox libsox-fmt-mp3 audacity ffmpeg
+```
+
 ## Tools
 
 |What|Link|
