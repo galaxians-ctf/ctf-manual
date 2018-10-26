@@ -1,6 +1,6 @@
 # CTF Manual
 
-- [Cryptography](./cryptography.md)
+- [Cryptography](./crypto.md)
 - [Steganography](./stego.md)
 - [Programming](./programming.md)
 - [Web](./web.md)
