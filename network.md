@@ -1,22 +1,24 @@
-## Network
+# Network
 
 ```
 sudo apt install wireshark tshark
 ```
 
 
-**Tools**
+## Tools
 
 Wireshark (packet dissection): ubuntu apt tool [https://www.wireshark.org/](https://www.wireshark.org/)
 
 
-**Documentation**
+## Documentation
 
-**Tips and Tricks**
+## Tips and Tricks
 
 Wireshark -> export objects -> HTTP
 
-- Select http requests:
+### Selecting data with tshark
+
+- Select http requests: (`-Y http.response` for all responses, or `-Y http` for everything)
 
 	```
 	$ tshark -r data.pcap -Y http.request
@@ -50,5 +52,4 @@ Wireshark -> export objects -> HTTP
 
 
 	user=admin&password=picoCTF{n0ts3cur3_894a6546}
-
 	```
