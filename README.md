@@ -1,5 +1,7 @@
 # CTF Manual
 
+- [Barcodes](./barcodes.md)
+
 - [Cryptography](./crypto.md)
 - [Steganography](./stego.md)
 - [Programming](./programming.md)
