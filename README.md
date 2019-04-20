@@ -13,11 +13,11 @@
 	- [The Stack](./assembly/stack.md)
 	- [Binary/Exploit/Reversing](./assembly/exploit.md)
 - Encoding
-	- [General](./encoding/general.md)
+	- [General](./encoding/readme.md)
 	- [Alphabets](./encoding/alphabets.md)
 	- [QR Codes](./encoding/qr.md)
 - Forensics
-	- [General](./forensics/general.md)
+	- [General](./forensics/readme.md)
 	- [File Formats](./forensics/file-formats.md)
 
 
