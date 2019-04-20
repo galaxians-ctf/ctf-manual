@@ -15,7 +15,7 @@
 - Encoding
 	- [General](./encoding/readme.md)
 	- [Alphabets](./encoding/alphabets.md)
-	- [QR Codes](./encoding/qr.md)
+	- [QR Codes](./barcodes#QR)
 - Forensics
 	- [General](./forensics/readme.md)
 	- [File Formats](./forensics/file-formats.md)
